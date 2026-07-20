@@ -23,6 +23,8 @@ My research interest includes Time Series Anomaly Detection, LLMs and Multi-Agen
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Participated in the TDBC 2026 held in Beijing, China.
+- *2026.05*: &nbsp;🎉🎉 Presented a poster at the ICASSP 2026 in Barcelona, Spain.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2026. 
 
 # 📝 Publications 
