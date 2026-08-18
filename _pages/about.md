@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at the Institute of Information Engineering (IIE), Chinese Academy of Sciences. If you are seeking any form of academic communication, please feel free to email me at chenghanchang@iie.ac.cn.
+I am a Ph.D. student student at the Institute of Information Engineering (IIE), Chinese Academy of Sciences. If you are seeking any form of academic communication, please feel free to email me at chenghanchang@iie.ac.cn.
 
 My research interest includes Time Series Anomaly Detection, LLMs and Multi-Agent Systems.
 
