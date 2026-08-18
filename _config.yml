@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanchang Cheng"
   avatar           : "images/me.jpg"
-  bio              :"University of Chinese Academy of Sciences (UCAS)\nInstitute of Information Engineering, Chinese Academy of Sciences"
+  bio              : "University of Chinese Academy of Sciences (UCAS)\nInstitute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
